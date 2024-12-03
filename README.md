@@ -15,7 +15,7 @@ Here is the list of learning objectives:
 - What is an attribute: An attribute is an - often optional - additional instruction, it is annoted inside a tag and defines a more specific behavior (`<p class="Example">Some text</p>`).
 - What the purpose of each HTML tag
 
-![The wireframe used](https://imgur.com/a/Mbyb0JS)
+![imgur](https://imgur.com/a/Mbyb0JS)
 
 0. README and objectives!
 1. Header
